@@ -6,6 +6,7 @@ import LogoutBtn from "./Header/LogoutBtn";
 import RTE from "./RTE";
 import Signup from "./Signup"
 import Login from "./Login"
+import PostForm from "./post-form/PostForm"
 
 export {
     Header,
